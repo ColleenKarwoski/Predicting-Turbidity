@@ -5,7 +5,7 @@
 ## Objective
 The purpose of this project is to investigate the water quality of Lake Superior. We chose to predict turbidity because high turbidity can significantly reduce the aesthetic quality of any body of water. 
 
-## Data 
+## Data Source 
 NOAA’s National Estuarine Research Reserve System identifies and tracks short-term variability and long-term changes in the integrity and biodiversity of representative estuarine ecosystems and coastal watersheds for the purpose of contributing to effective national, regional and site-specific coastal zone management.Our team chose to look at water quality at the Barker’s Island station with weather data from the Pokegama Bay in Lake Superior and used the available water quality data, meteorlogical data, and nutrient and pigment data to creata a machine learning model to predict turbidity.
 
 ![image](https://github.com/keywalsh/National_Estuarine_Research_Reserve/assets/119438532/ad3cd092-d072-4146-b6b2-3ddc2cbae116)
@@ -37,7 +37,25 @@ Four models were created. The models were optimized by refining and updating the
 
 ## Files
 
+Raw data contained within the Bakers_Island_Data folder 
 
+Predictions folder contains:    
+
+Data cleaning files   
+-data_cleaning_notebook.ipynb  
+-PySpark_Summer.ipynb  
+
+Cleaned CSV files  
+-cleaned.csv  
+-cleaned_groupby_date.csv  
+-summer_all_days.csv  
+-summer_groupby_date.csv  
+
+Model optimization files  
+-model_1_random_forest.ipynb  
+-model_2_random_forest.ipynb  
+-model_3_random_forest.ipynb  
+-model_4_random_forest.ipynb  
 
 ## Contributing Members
 
@@ -47,4 +65,3 @@ Robert Bentz, Colleen Karwoski, Laura Murray, Eugenia Volscaia and Katelyn Walsh
 NOAA National Estuarine Research Reserve System (NERRS). System-wide Monitoring Program. Data accessed from the NOAA NERRS Centralized Data Management Office website: http://www.nerrsdata.org; accessed 1 June 2023.
 
 
-# National_Estuarine_Research_Reserve
