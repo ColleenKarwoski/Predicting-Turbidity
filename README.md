@@ -58,12 +58,10 @@ Model optimization files
 -model_4_random_forest.ipynb  
 
 Resource folder contains: 
-
 -non-merged datasets used for initial understanding and scoping of analysis 
 
 Barkers_Island_Data
-
--merged csv. used in analysis and supporting metadata details for data included in csv.
+-merged csv used in analysis and supporting metadata details for data included in csv.
 
 ## Contributing Members
 
