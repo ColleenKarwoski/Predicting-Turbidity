@@ -17,12 +17,12 @@ NOAA’s National Estuarine Research Reserve System identifies and tracks short-
 ### K-Nearest Neighbors
 We initially used K-Nearest Neighbors (KNN) Classification tested a regression model to predict 2023 turbidity from the data from 2018 – 2022. We used the following data:
 
-Average Air Temperature 
-Total Precipitation
-Water Temperature
-Salinity
-Depth Measured
-pH
+Average Air Temperature, 
+Total Precipitation,
+Water Temperature,
+Salinity,
+Depth Measured,
+and pH
 
 This was not very effective at predicting turbidity. Our instructor suggested trying either Logistic Regression or Random Forest.
 
