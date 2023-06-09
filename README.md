@@ -66,7 +66,13 @@ Barkers_Island_Data:
 -merged csv used in analysis and supporting metadata details for data included in csv.
 
 Visualizations used in presentation:
+
 https://public.tableau.com/views/Turbidityandwaterfeaturesovertime/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+https://public.tableau.com/app/profile/eugenia.volscaia/viz/WaterQuality
+
+## Presentation 
+https://docs.google.com/presentation/d/16jH0MtC1k8bn-wj_fRicU09ObhF5Fw55vKubftov-gI/edit#slide=id.p1
 
 ## Contributing Members
 
