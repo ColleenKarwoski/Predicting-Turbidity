@@ -68,6 +68,9 @@ Barkers_Island_Data:
 Visualizations used in presentation:
 https://public.tableau.com/views/Turbidityandwaterfeaturesovertime/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
+## Presentation 
+https://docs.google.com/presentation/d/16jH0MtC1k8bn-wj_fRicU09ObhF5Fw55vKubftov-gI/edit#slide=id.p1
+
 ## Contributing Members
 
 Robert Bentz, Colleen Karwoski, Laura Murray, Eugenia Volscaia and Katelyn Walsh
