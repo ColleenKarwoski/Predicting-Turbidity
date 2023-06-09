@@ -63,6 +63,9 @@ Resource folder contains:
 Barkers_Island_Data
 -merged csv used in analysis and supporting metadata details for data included in csv.
 
+Visualizations used in presentation:
+https://public.tableau.com/views/Turbidityandwaterfeaturesovertime/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Contributing Members
 
 Robert Bentz, Colleen Karwoski, Laura Murray, Eugenia Volscaia and Katelyn Walsh
